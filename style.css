@@ -1,0 +1,171 @@
+body {
+	background-color: black;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul, li, video {
+	color: white;
+	font-family: "Lucida Console", monospace;
+}
+a {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-decoration: none;
+}
+
+.logo {
+	width: 22%;
+	height: 22%;
+}
+.topnav {
+  overflow: hidden;
+  background-color: #000000;
+  margin-left: -5%;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+.webTitle {
+	margin-left: -100%;
+}
+
+.aboutexo {
+	margin-left: 400px;
+}
+.aboutexo:hover {
+  background-color: #ddd;
+  color: black;
+}
+.help:hover {
+  background-color: #ddd;
+  color: black;
+}
+.contactus:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+
+.groupPhoto {
+	width: 100%;
+	margin-top: 20px;
+}
+.exoloveshot {
+	width: 100%;
+	height: 100%;
+	margin-top: 20px;
+}
+
+.tagline {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	margin-top: 100px;
+}
+.p1 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-top: 50px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+.p2 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+}
+
+.newsandreleases {
+	color: white;
+	font-family: "Lucida Console", monospace;
+}
+
+.xiumin {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.brandnew1 {
+	width: 25%;
+	height: 25%;
+}
+.brandnew2 {
+	width: 25%;
+	height: 25%;
+}
+
+.brandnewdesc1 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-right: 60px;
+	margin-left: 60px;
+	text-align: justify;
+}
+.brandnewdesc2, .brandnewdesc3, .brandnewdesc4, .brandnewdesc5 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-right: 60px;
+	margin-left: 60px;
+	text-align: justify;
+}
+
+.chanyeolReturn {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	margin-top: 200px;
+}
+.chanyeol {
+	width: 90%;
+}
+
+.ulist {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	margin-left: 60px;
+}
+
+.chanyeoldesc1 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-top: 50px;
+	margin-left: 60px;
+	margin-right: 60px;
+	text-align: justify;
+}
+.chanyeoldesc2, .chanyeoldesc3 {
+	color: white;
+	font-family: "Lucida Console", monospace;
+	text-indent: 50px;
+	margin-left: 60px;
+	margin-right: 60px;
+	text-align: justify;
+}
+
+.topsongsheader {
+	margin-top: 100px;
+	margin-left: 50px;
+}
+.topsongs {
+	margin-left: 50px;
+}
+
+.exoawardsheader {
+	margin-top: 100px;
+	margin-left: 50px;
+}
